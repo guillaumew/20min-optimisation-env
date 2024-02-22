@@ -1,0 +1,23 @@
+{% for spectacle in site.data.dates %}
+<div class="col-lg-4">
+    <a href="{{spectacle.link}}" target="_new" class="feature-item row">
+        <div class="col-4 affiche">
+			<picture>
+				<source srcset="{{spectacle.image}}.webp" type="image/webp">
+				<source srcset="{{spectacle.image}}.jpg" type="image/jpg">
+				<img src="{{spectacle.image}}.jpg" alt="{{spectacle.name}}" title="{{spectacle.name}}" loading="lazy">
+			</picture>
+        </div>
+        <div class="col-8 titre">
+            <h3>{{spectacle.name}}</h3>
+            <div>
+                <p class="text-muted">Le {{spectacle.date | date: "%d/%m/%Y à %H:%M" }}</p>
+                <p class="text-muted">{{spectacle.venue}}</p>
+            </div>
+        </div>
+    </a>
+</div>
+{% endfor %}
+
+--- 
+---

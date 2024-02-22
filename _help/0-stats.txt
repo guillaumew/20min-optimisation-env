@@ -1,0 +1,15 @@
+Au début : 
+ - Requêtes : 39
+ - Taille : 4.14 Mo
+ - DOM : 180
+
+Par catégories
+| Catégorie  | Requêtes | Taille  |
+|------------|----------|---------|
+| Index.html |        1 |    7 ko |
+| CSS        |        7 |  237 ko |
+| Fonts      |        6 |  218 ko |
+| Javascript |        6 |  385 ko |
+| Facebook   |       12 |  674 ko |
+| Images     |        7 | 2620 ko | 
+| TOTAL      |       39 | 4141 ko |

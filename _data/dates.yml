@@ -1,0 +1,20 @@
+- name: Politiquement incorrect
+  date: 2023-10-14 18:30
+  venue: La Fabrique à Impros
+  image: /img/politiquement_incorrect
+  link: https://lafabriqueaimpros.com
+- name: Impro-catch
+  date: 2023-10-29 18:00
+  venue: La Fabrique à Impros
+  image: /img/cnic
+  link: https://lafabriqueaimpros.com
+- name: La vie secrète des livres
+  date: 2023-10-18 14:00
+  venue: Mediathèque Clisson
+  image: /img/mediatheque
+  link: https://lafabriqueaimpros.com
+- name: Kabaraoke
+  date: 2023-10-20 21:00
+  venue: La Fabrique à Impros
+  image: /img/kabaraoke
+  link: https://lafabriqueaimpros.com

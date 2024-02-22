@@ -1,0 +1,12 @@
+Optimiser les images
+Retirer le plugin Facebook
+Retirer les fonts
+Optimiser le javascript hors Angular
+Gérer les icones
+Remplacer Angular par Jeykill
+Minifier CSS et Javascript
+Compresser les fichiers
+
+Optimisations fonctionnelles
+Optimisations du code
+    Remplacer Bootstap par PureCSS ou CSS natif
