@@ -33,9 +33,9 @@ On retrouvera les bonnes pratiques à mettre en place dans l'[article de suivi d
 ## Conclusion
 
 - Comparaison avant /après.
-  - 95% taille
-  - 75% requêtes
-  - 35% DOM
+  - -95% taille
+  - -75% requêtes
+  - -35% DOM
 - Ouverture, les étapes d’après : 
   - Optimisation du code Changer bootstrap par PureCSS ou css natif
   - Optimisations métiers du code
