@@ -5,34 +5,34 @@ angular.module('diabolos',
 		spectaclesList.spectacles = [
 			
 			{
-				name:"Politiquement incorrect",
-				date:new Date(Date.UTC(2023,09,14,18,30)),
-				venue: "La Fabrique à Impros",
-				Price: "9€",
-				image:"img/politiquement_incorrect.jpg",
-				link:"https://lafabriqueaimpros.com"
-				
-			},
-			{
-				name:"Impro-catch",
-				date:new Date(Date.UTC(2023,09,29,18,00)),
+				name:"Derby avec les Titans",
+				date:new Date(Date.UTC(2024,03,04,21,30)),
 				venue: "La Fabrique à Impros",
 				Price: "9€",
 				image:"img/cnic.jpg",
 				link:"https://lafabriqueaimpros.com"
+				
+			},
+			{
+				name:"[Im]procès",
+				date:new Date(Date.UTC(2024,03,06,18,30)),
+				venue: "La Fabrique à Impros",
+				Price: "9€",
+				image:"img/improces.jpg",
+				link:"https://lafabriqueaimpros.com"
 			},
 			{
 				name:"La vie secrète des livres",
-				date:new Date(Date.UTC(2023,09,28,14,00)),
-				venue: "Mediathèque Clisson",
+				date:new Date(Date.UTC(2024,03,19,19,30)),
+				venue: "Maison de quartier des confluences",
 				image:"img/mediatheque.jpg",
 				link:"https://lafabriqueaimpros.com"
 			},
 			{
-				name:"Kabaraoke",
-				date:new Date(Date.UTC(2023,09,20,21,00)),
-				venue: "La Fabrique à Impros",
-				image:"img/kabaraoke.jpg",
+				name:"Over-connected",
+				date:new Date(Date.UTC(2024,08,25,18,30)),
+				venue: "Halle 6",
+				image:"img/over-connected.jpg",
 				link:"https://lafabriqueaimpros.com"
 			},
 			

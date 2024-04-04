@@ -1,20 +1,20 @@
-- name: Politiquement incorrect
-  date: 2023-10-14 18:30
-  venue: La Fabrique à Impros
-  image: /img/politiquement_incorrect
-  link: https://lafabriqueaimpros.com
-- name: Impro-catch
-  date: 2023-10-29 18:00
+- name: Derby avec les Titans
+  date: 2024-04-04 21:00
   venue: La Fabrique à Impros
   image: /img/cnic
   link: https://lafabriqueaimpros.com
+- name: "[Im]procès"
+  date: 2024-04-06 18:30
+  venue: La Fabrique à Impros
+  image: /img/improces
+  link: https://lafabriqueaimpros.com
 - name: La vie secrète des livres
-  date: 2023-10-18 14:00
-  venue: Mediathèque Clisson
+  date: 2024-04-19 19:30
+  venue: Maison de quartier des confluences
   image: /img/mediatheque
   link: https://lafabriqueaimpros.com
-- name: Kabaraoke
-  date: 2023-10-20 21:00
-  venue: La Fabrique à Impros
-  image: /img/kabaraoke
+- name: Over-connected
+  date: 2024-09-25 18:30
+  venue: Halle 6
+  image: /img/over-connected
   link: https://lafabriqueaimpros.com
