@@ -70,7 +70,11 @@
 							<div class="device">
 								<div class="screen">
 <!--Logo -->
-								<img src="img/logo.jpg" class="img-fluid" alt="Logo Diabolos Nantes">
+									<picture class="img-fluid">
+										<source srcset="img/logo.webp" type="image/webp">
+										<source srcset="img/logo.jpg" type="image/jpg">
+										<img src="img/logo.jpg" alt="Logo Diabolos Nantes" title="Logo Diabolos Nantes" loading="lazy">
+									</picture>								
 								</div>
 							</div>
 						</div>
@@ -94,7 +98,11 @@
 							<div class="col-lg-4" ng-repeat="spectacle in spectaclesList.spectacles | orderBy:'date' | limitTo:9">
 								<a ng-href="{{spectacle.link}}" target="_new" class="feature-item row">
 									<div class="col-4 affiche">
-										<img ng-src="{{spectacle.image}}">
+										<picture>
+											<source srcset="{{spectacle.image_webp}}" type="image/webp">
+											<source srcset="{{spectacle.image}}" type="image/jpg">
+											<img src="{{spectacle.image}}" alt="{{spectacle.name}}" title="{{spectacle.name}}" loading="lazy">
+										</picture>
 									</div>
 									<div class="col-8 titre">
 										<h3>{{spectacle.name}}</h3>
