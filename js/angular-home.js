@@ -10,6 +10,7 @@ angular.module('diabolos',
 				venue: "La Fabrique à Impros",
 				Price: "9€",
 				image:"img/cnic.jpg",
+				image_webp:"img/cnic.webp",
 				link:"https://lafabriqueaimpros.com"
 				
 			},
@@ -19,6 +20,7 @@ angular.module('diabolos',
 				venue: "La Fabrique à Impros",
 				Price: "9€",
 				image:"img/improces.jpg",
+				image_webp:"img/improces.webp",
 				link:"https://lafabriqueaimpros.com"
 			},
 			{
@@ -26,6 +28,7 @@ angular.module('diabolos',
 				date:new Date(Date.UTC(2024,03,19,19,30)),
 				venue: "Maison de quartier des confluences",
 				image:"img/mediatheque.jpg",
+				image_webp:"img/mediatheque.webp",
 				link:"https://lafabriqueaimpros.com"
 			},
 			{
@@ -33,8 +36,9 @@ angular.module('diabolos',
 				date:new Date(Date.UTC(2024,08,25,18,30)),
 				venue: "Halle 6",
 				image:"img/over-connected.jpg",
+				image_webp:"img/over-connected.webp",
 				link:"https://lafabriqueaimpros.com"
-			},
+			}
 			
 		];
 	})
