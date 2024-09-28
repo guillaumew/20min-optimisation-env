@@ -27,7 +27,8 @@ Score : 70/100  B
 Ca semble correct comme note ? On va voir que pour un site comme ça, on peut faire beaucoup, beaucoup mieux... et sans faire un gros effort.
 
 ## Actions
-
+Pour lancer la stack technique, RDV sur [la doc tech](/TECH.md).
+S
 On retrouvera les bonnes pratiques à mettre en place dans l'[article de suivi de l'atelier](https://simbios.fr/blog/2024/02/01/dix-min-pour-reduire-empreinte-environnementale-site).
 
 ## Conclusion
