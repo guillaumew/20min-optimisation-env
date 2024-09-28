@@ -40,3 +40,5 @@ exclude:
   - node_modules
   - _help/
   - _site/
+  - README.md
+  - TECH.md
