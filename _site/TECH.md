@@ -18,4 +18,4 @@ Cela doit créer un site temporaire qui va se mettre à jour à chaque modificat
 
 Si l'installation de Jekyll pose problème, vous trouverez directement le site dans le répertoire [_site](/_site/). Il est tout à fait possible de travailler directement dans ce répertoire.
 
-Attention, si le site n'est pas servi (par Jekyll ou autre), les analyses de l'eco-index ne fonctionneront pas (l'ensemble des fichiers locaux seront ignorés).
+Attention, si le site n'est pas servi (par Jekyll ou autre), les analyses de l'eco-index ne fonctionneront pas.
