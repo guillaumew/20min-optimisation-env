@@ -1,5 +1,7 @@
 Ce répository sert de base de code pour la présentation [20 min pour réduire l'empreinte environnementale d'un site](https://simbios.fr/formations/30min-reduire-empreinte-environnemental-site).
 
+[Trame privée pour la présentation](https://kdrive.infomaniak.com/app/office/894812/502)
+
 ## Intro
 Il y a encore quelques mois j’étais PO, maintenant je suis un freelance qui aide les entreprises à réduire l’impact environnemental de leurs activités numériques.
 Dans mon nouveau job, je suis amené à faire pas mal d’analyses de site. Je me rends compte qu’on fait tous les mêmes erreurs d’un point de vue écologique… Je dis nous, parce qu’il y a encore 5 ans, même si je faisais attention à mon empreinte,  j’étais pas tellement sensibilisé au coût environnemental du numérique et donc je ne faisais pas ce qu’il fallait.
